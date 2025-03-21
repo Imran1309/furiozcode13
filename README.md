@@ -40,11 +40,8 @@ The **Annual Report Portal** aggregates reports from all departments and allows 
 - **👑 Leader & Developer**: [IMRAN.S.S]() 
 - **👨‍💻 Developer**: [KATHIRAVAN.E]
 - **🎨 Designer**: [LOGESHWARAN.M]
-- youtube:
-- https://youtu.be/xBlcn6eRa2o?si=eCcunyINu2M1qxh_
+-
 
 ## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SonuuChowdhury/Institute-Site-AZ-BUG-BUSTERS.git
+ youtube:
+- https://youtu.be/xBlcn6eRa2o?si=eCcunyINu2M1qxh_
